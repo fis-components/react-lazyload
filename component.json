@@ -1,0 +1,13 @@
+{
+    "name": "react-lazyload",
+    "description": "Lazyload your Component, Image or anything matters the performance.",
+    "repos": "https://github.com/jasonslyvia/react-lazyload.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "react": "^0.14.3",
+        "react-dom": "^0.14.3"
+    },
+    "version": "1.4.0"
+}
